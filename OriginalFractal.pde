@@ -2,7 +2,7 @@ public void setup()
 {
 size(500, 500);
 rectMode(CENTER);
-framerate(10);
+
 }
 public void draw()
 {
